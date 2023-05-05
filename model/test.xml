@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list>
+    <stable id="stable1" name="region1">
+        <id>(r0, 0)</id>
+        <E>(c0, 1)</E>
+        <EN>(c0, 0), (r5, 1)</EN>
+        <N>(r0, 1)</N>
+        <WN>(r0, 3)</WN>
+        <W>(r0, 2)</W>
+        <WS></WS>
+        <S></S>
+        <ES>(r1, 0)</ES>
+    </stable>
+    <stable id="stable2" name="region2">
+        <id>(r0, 1)</id>
+        <E>(c0, 0)</E>
+        <EN>(r5, 1)</EN>
+        <N></N>
+        <WN></WN>
+        <W>(r0, 3)</W>
+        <WS>(r0, 2)</WS>
+        <S>(r0, 0)</S>
+        <ES>(r1, 0)</ES>
+    </stable>
+    <teacher id="tea1" name="tea">
+        <id>1000</id>
+        <name>王五</name>
+        <age>40</age>
+        <gender>男</gender>
+    </teacher>
+</list>

@@ -1,0 +1,18 @@
+// Binary Tree
+digraph {
+	1 [label="~"]
+	1 -> 2
+	2 [label=And]
+	2 -> 3
+	3 [label=B]
+	3 -> 5
+	5 [label="re(a1)"]
+	3 -> 6
+	6 [label="cl(a2)"]
+	2 -> 4
+	4 [label=RB]
+	4 -> 7
+	7 [label="re(a1)"]
+	4 -> 8
+	8 [label="re(a2)"]
+}
